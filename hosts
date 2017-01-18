@@ -1,0 +1,111 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#NoFunZone
+0.0.0.0    4chan.org
+0.0.0.0    www.4chan.org
+0.0.0.0    9gag.com
+0.0.0.0    www.9gag.com
+0.0.0.0    amazon.com
+0.0.0.0    www.amazon.com
+0.0.0.0    buzzfeed.com
+0.0.0.0    www.buzzfeed.com
+0.0.0.0    collegehumor.com
+0.0.0.0    www.collegehumor.com
+0.0.0.0    delicious.com
+0.0.0.0    www.delicious.com
+0.0.0.0    deviantart.com
+0.0.0.0    www.deviantart.com
+0.0.0.0    ebay.com
+0.0.0.0    www.ebay.com
+0.0.0.0    facebook.com
+0.0.0.0    www.facebook.com
+0.0.0.0    flickr.com
+0.0.0.0    www.flickr.com
+0.0.0.0    imgur.com
+0.0.0.0    www.imgur.com
+0.0.0.0    instagram.com
+0.0.0.0    www.instagram.com
+0.0.0.0    mashable.com
+0.0.0.0    www.mashable.com
+0.0.0.0    myspace.com
+0.0.0.0    www.myspace.com
+0.0.0.0    netflix.com
+0.0.0.0    www.netflix.com
+0.0.0.0    orkut.com
+0.0.0.0    www.orkut.com
+0.0.0.0    pinterest.com
+0.0.0.0    www.pinterest.com
+0.0.0.0    reddit.com
+0.0.0.0    www.reddit.com
+0.0.0.0    stumbleupon.com
+0.0.0.0    www.stumbleupon.com
+0.0.0.0    tagged.com
+0.0.0.0    www.tagged.com
+0.0.0.0    tumblr.com
+0.0.0.0    www.tumblr.com
+0.0.0.0    twitter.com
+0.0.0.0    www.twitter.com
+0.0.0.0    vimeo.com
+0.0.0.0    www.vimeo.com
+0.0.0.0    youtube.com
+0.0.0.0    www.youtube.com
+0.0.0.0    www.quora.com
+0.0.0.0    quora.com
+0.0.0.0    www.vk.com
+0.0.0.0    vk.com
+0.0.0.0    vine.co
+0.0.0.0    www.meetup.com
+0.0.0.0    meetup.com
+0.0.0.0    Ask.fm
+0.0.0.0    www.xing.com
+0.0.0.0    xing.com
+0.0.0.0    www.whatsapp.com
+0.0.0.0    whatsapp.com
+0.0.0.0    www.periscope.tv
+0.0.0.0    periscope.tv
+0.0.0.0    www.bizsugar.com
+0.0.0.0    bizsugar.com
+0.0.0.0    www.gotinder.com
+0.0.0.0    gotinder.com
+0.0.0.0    www.okcupid.com
+0.0.0.0    okcupid.com
+0.0.0.0    digg.com
+0.0.0.0    www.digg.com
+0.0.0.0    www.viber.com
+0.0.0.0    viber.com
+0.0.0.0    www.snapchat.com
+0.0.0.0    snapchat.com
+0.0.0.0    www.slither.io
+0.0.0.0    www.kik.com
+0.0.0.0    kik.com
+0.0.0.0    foursquare.com
+0.0.0.0    www.foursquare.com
+0.0.0.0    www.yikyak.com
+0.0.0.0    yikyak.com
+0.0.0.0    www.shots.net
+0.0.0.0    shots.net
+0.0.0.0    soundcloud.com
+0.0.0.0    www.soundcloud.com
+0.0.0.0    slack.com
+0.0.0.0    www.slack.com
+0.0.0.0    blab.im
+0.0.0.0    www.blab.im
